@@ -223,3 +223,6 @@ chapters_vector_db/
 
 #test script
 src/test.py
+
+# Ignore raw PDF data
+data/
